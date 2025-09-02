@@ -54,15 +54,6 @@
 </div>
 
 
-<h2>📚 Atualmente estudando</h2>
-<ul>
-  <li>📌 POO com Java (herança, polimorfismo, interfaces e exceções)</li>
-  <li>📌 Estruturas de dados e ponteiros em C++</li>
-  <li>📌 Boas práticas de programação e organização de código</li>
-  <li>📌 Fundamentos de desenvolvimento web (HTML, CSS e JS)</li>
-</ul>
-
-
 <h2>🚀 Objetivo profissional</h2>
 <p>
   Pretendo conquistar minha primeira oportunidade como <strong>desenvolvedor júnior</strong> ou <strong>estagiário</strong>,  
