@@ -25,14 +25,14 @@ contribuindo com dedicação e vontade de crescer junto à empresa.
 
 ### 📊 Linguagens em uso  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=pie&langs_count=4&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelLucasBS&layout=pie&langs_count=4&theme=radical" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NatanaelLucasBS&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatanaelLucasBS&theme=radical" height="165"/>
 </div>
 
 
