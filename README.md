@@ -20,15 +20,8 @@
 
 <h2>🧑‍💻 Sobre minha carreira</h2>
 <p>
-  Sou um jovem de <strong>18 anos</strong>, apaixonado por tecnologia e atualmente cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>UFRN</strong>.  
-  Minha trajetória está sendo construída com foco em <strong>lógica de programação</strong>, <strong>POO</strong> e <strong>desenvolvimento de software</strong>, especialmente com <span style="color:#00599C;">C++</span> e <span style="color:#ED8B00;">Java</span>.
+Meu nome é Natanael Lucas, tenho 18 anos e vivo tecnologia como um propósito. Estou trilhando o caminho para me tornar um desenvolvedor back-end capaz de transformar ideias em sistemas que impactam pessoas e negócios.
 </p>
-<p>
-  No curso, estou me aprofundando em conceitos fundamentais como estruturas de dados, algoritmos, orientação a objetos e desenvolvimento web básico.  
-  Meu objetivo é me tornar um desenvolvedor back-end sólido, dominando as boas práticas e criando sistemas que sejam escaláveis e eficientes.
-</p>
-
-
 <h2>🧰 Tecnologias que utilizo</h2>
 <div style="display:flex; gap:24px; align-items:center; flex-wrap:wrap;">
   <div align="center">
