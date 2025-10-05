@@ -19,8 +19,8 @@ contribuindo com dedicação e vontade de crescer junto à empresa.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="56" height="56"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="56" height="56"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="56" height="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="56" height="56"/>
 </p>
-
 ---
 
 ### 📊 Linguagens em uso  
