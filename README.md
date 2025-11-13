@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>👋 Opa, me chamo <span style="color:#7C3AED">Natanael Lucas</span></h1>
-  <p><strong>18 anos</strong> • Estudante de <strong>ADS</strong> na <strong>UFRN</strong></p>
+  <p><strong>19 anos</strong> • Estudante de <strong>ADS</strong> na <strong>UFRN</strong></p>
 </div>
 
 ---
