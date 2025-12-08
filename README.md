@@ -1,5 +1,9 @@
 <div align="center">
   <h1>👋 Opa, me chamo <span style="color:#7C3AED">Natanael Lucas</span></h1>
+
+  <!-- Saudação digitada -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Seja+bem-vindo+ao+meu+perfil!;Desenvolvedor+em+evolução+constante;Apaixonado+por+tecnologia+e+inovação;Sempre+buscando+novos+desafios+🚀" />
+  
   <p><strong>19 anos</strong> • Estudante de <strong>ADS</strong> na <strong>UFRN</strong></p>
 </div>
 
@@ -12,7 +16,7 @@ Tenho facilidade em me adaptar e disposição total para crescer e contribuir co
 
 ---
 
-### 🛠️ Hard skills  
+### 🛠️ Tecnologias  
 <p align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="56" height="56"/>
@@ -32,7 +36,6 @@ Tenho facilidade em me adaptar e disposição total para crescer e contribuir co
 
 <div align="center">
 
-<!-- Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NatanaelLucasBS&theme=radical" width="800"/>
 
 <br/>
