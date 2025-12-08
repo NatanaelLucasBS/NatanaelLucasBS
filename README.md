@@ -12,7 +12,7 @@ Tenho facilidade em me adaptar e disposição total para crescer e contribuir co
 
 ---
 
-### 🛠️ Tecnologias  
+### 🛠️ Hard skills  
 <p align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="56" height="56"/>
